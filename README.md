@@ -10,4 +10,4 @@
 
 平台提供一流的内容筛选，确保您获得最佳的高清观看体验。每个视频页面都附有详细的描述，帮助您选择喜爱的影片。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/mt20250709/mt2 ）</span>
